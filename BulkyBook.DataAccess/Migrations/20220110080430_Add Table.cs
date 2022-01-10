@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace BulkyBook.DataAccess.Migrations
 {
-    public partial class AddingTables : Migration
+    public partial class AddTable : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
